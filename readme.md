@@ -4,7 +4,7 @@ This repository contains the code for homeworks. Meant to be used together with 
 
 ## Homeworks
 
-1. [Homework 1](homework1.md)
+1. [Homework 1](s23_mobile_robotics/homework1.md) - comparison of analytical and estimated trajectories. [Report](homework1.pdf))
 
 ## Usage
 
