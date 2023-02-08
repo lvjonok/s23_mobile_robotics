@@ -6,6 +6,8 @@ This repository contains the code for homeworks. Meant to be used together with 
 
 1. [Homework 1](s23_mobile_robotics/homework1.md) - comparison of analytical and estimated trajectories. [Report](homework1.pdf))
 
+2. [Homework 2](s23_mobile_robotics/homework2.py) - implementation of simple path tracking strategy through waypoints. [Report](homework2.pdf))
+
 ## Usage
 
 1. Install ROS2
