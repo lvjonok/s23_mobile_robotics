@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'hw1 = s23_mobile_robotics.homework1:main'
+            'hw1 = s23_mobile_robotics.homework1:main',
+            'hw2 = s23_mobile_robotics.homework2:main'
         ],
     },
 )
