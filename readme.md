@@ -8,6 +8,8 @@ This repository contains the code for homeworks. Meant to be used together with 
 
 2. [Homework 2](s23_mobile_robotics/homework2.py) - implementation of simple path tracking strategy through waypoints. [Report](homework2.pdf))
 
+3. [Homework 3](s23_mobile_robotics/homework3.py) - implementation of lateral control for path tracking. [Report](homework3.pdf)
+
 ## Usage
 
 1. Install ROS2
