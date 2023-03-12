@@ -8,7 +8,7 @@ Despite car model having ackermann steering model I decided to use bicycle model
 
 - Formulation is very similar to one we have from lectures, I changed only calculation of look ahead distance.
 
-- $$ l_d = k \cdot (v + 10^{-5} + L) $$ where $L$ is distance between steering and back axles and $k$ is controller coefficient.
+- $ l_d = k \cdot (v + 10^{-5} + L) $ where $L$ is distance between steering and back axles and $k$ is controller coefficient.
 
 - $\delta = \frac{2 \cdot L \cdot \sin{\alpha}}{l_d}$ is steering angle for car
 

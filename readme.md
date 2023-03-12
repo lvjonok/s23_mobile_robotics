@@ -4,11 +4,13 @@ This repository contains the code for homeworks. Meant to be used together with 
 
 ## Homeworks
 
-1. [Homework 1](s23_mobile_robotics/homework1.md) - comparison of analytical and estimated trajectories. [Report](homework1.pdf))
+1. [Homework 1](s23_mobile_robotics/homework1.md) - comparison of analytical and estimated trajectories. [Report](s23_mobile_robotics/homework1.md)
 
-2. [Homework 2](s23_mobile_robotics/homework2.py) - implementation of simple path tracking strategy through waypoints. [Report](homework2.pdf))
+2. [Homework 2](s23_mobile_robotics/homework2.py) - implementation of simple path tracking strategy through waypoints. [Report](s23_mobile_robotics/homework2.md)
 
-3. [Homework 3](s23_mobile_robotics/homework3.py) - implementation of lateral control for path tracking. [Report](homework3.pdf)
+3. [Homework 3](s23_mobile_robotics/homework3.py) - implementation of lateral control for path tracking. [Report](s23_mobile_robotics/homework3.md)
+
+4. [Homework 4](s23_mobile_robotics/homework4.py) - combining of laser rays with camera image. Projections. [Report](s23_mobile_robotics/homework4.md)
 
 ## Usage
 
