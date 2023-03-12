@@ -21,7 +21,9 @@ setup(
     entry_points={
         'console_scripts': [
             'hw1 = s23_mobile_robotics.homework1:main',
-            'hw2 = s23_mobile_robotics.homework2:main'
+            'hw2 = s23_mobile_robotics.homework2:main',
+            'hw3 = s23_mobile_robotics.homework3:main',
+            'hw4 = s23_mobile_robotics.homework4:main'
         ],
     },
 )
